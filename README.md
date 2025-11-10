@@ -10,7 +10,7 @@
 
   Пайдаланылған функциялар мен модульдер
 
-utils.py
+utilis.py
 	•	add_film(films, name, rating) — жаңа фильм қосу
 	•	delete_film(films, name) — фильмді жою
 	•	find_film(films, name) — фильмді табу
